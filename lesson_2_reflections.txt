@@ -4,3 +4,8 @@ Q: What happens when you initialize a repository? Why do you need to do it?
 
 A: When you initilaise a repository a .git subdirectory is created.
 You need to create this so to recieve all the metatdata that helps git perform the version control.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is different from the both the working directory and the repository because it is just a temporary place to hold files that will be in the next commit.
+The value that this has is that it allows you to stage logical commits
+
