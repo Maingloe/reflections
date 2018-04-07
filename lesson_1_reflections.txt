@@ -1,0 +1,35 @@
+Lesson 1.5 Reflections
+Q: How did viewing the diff between two versions help you spot the bug?
+
+A: The output of diff drew my attention towards the code that had been changed and allowed me to easily compare only the few lines necessary within the larger file.
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A: debugging would become a lot simpler.
+Also, it would make it easier to create branching versions from diferent points within the code.
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A: Pros of manual commit include: logical size, timing, and control
+cons include human error (comit to often or to little).
+Pros of auto save include: save often, never forget.
+Cons include: save to often, on logical save point, saved code is not executable.
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+A: Git was designed specifically for software development
+while the others were designed for version control on single files.
+
+Q: How can you use the commands git log and git diff to view the history of files?
+
+A: git log shows a history of all commits and there associated id's this allows  you to use git diff to see the difference between any two commits.
+
+Q: How might using version control make you more confident to make changes that could break something?
+
+A: In the past i was afraid to experinment very often because i was afraid i would ruin my work.
+With version control i am confident that i can always retain a working state to go back to.
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+
+A: I want to use git to create a ios developer resume!
+

@@ -1,0 +1,6 @@
+lesson_2_reflections
+
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: When you initilaise a repository a .git subdirectory is created.
+You need to create this so to recieve all the metatdata that helps git perform the version control.
