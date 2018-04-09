@@ -9,3 +9,7 @@ Q: How is the staging area different from the working directory and the reposito
 The staging area is different from the both the working directory and the repository because it is just a temporary place to hold files that will be in the next commit.
 The value that this has is that it allows you to stage logical commits
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: Even if you have multiple changes on different files if they are all related you can add them all to the staging area at the same time for the same commit.
+
