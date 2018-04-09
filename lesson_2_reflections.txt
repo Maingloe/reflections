@@ -17,3 +17,7 @@ Q: What are some situations when branches would be helpful in keeping your histo
 
 A: Branches are great for experimentation.
 They allow you to try new things without being afraid to ruin the main code.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: You can see wher each branch divergid as well as the parent child relationship of commits.
