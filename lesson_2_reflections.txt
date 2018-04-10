@@ -20,4 +20,13 @@ They allow you to try new things without being afraid to ruin the main code.
 
 Q: How do the diagrams help you visualize the branch structure?
 
-A: You can see wher each branch divergid as well as the parent child relationship of commits.
+A: You can see where each branch diverged as well as the parent child relationship of commits.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: Merging two branches results in the commits from each branch being merged together into one branch. This merge is a commit with two parents.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: auto merging works in many situations and is much faster that manual merging.
+Manual merging is necessary when auto merge fails due to conflicts.
