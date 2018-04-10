@@ -6,14 +6,14 @@ A: The output of diff drew my attention towards the code that had been changed a
 Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
 A: debugging would become a lot simpler.
-Also, it would make it easier to create branching versions from diferent points within the code.
+Also, it would make it easier to create branching versions from different points within the code.
 
 Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
 A: Pros of manual commit include: logical size, timing, and control
-cons include human error (comit to often or to little).
+cons include human error (commit to often or to little).
 Pros of auto save include: save often, never forget.
-Cons include: save to often, on logical save point, saved code is not executable.
+Cons include: save to often, on illogical save point, saved code is may not be executable.
 
 Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
@@ -26,10 +26,10 @@ A: git log shows a history of all commits and there associated id's this allows 
 
 Q: How might using version control make you more confident to make changes that could break something?
 
-A: In the past i was afraid to experinment very often because i was afraid i would ruin my work.
-With version control i am confident that i can always retain a working state to go back to.
+A: In the past I was afraid to experiment very often because I was afraid I would ruin my work.
+With version control I am confident that I can always retain a working state to go back to.
 
 Q: Now that you have your workspace set up, what do you want to try using Git for?
 
-A: I want to use git to create a ios developer resume!
+A: I want to use git to create a iOS developer portfolio!
 
