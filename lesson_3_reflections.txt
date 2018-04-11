@@ -7,4 +7,9 @@ Q: Why might you want to always pull changes manually rather than having Git aut
 A: Because you could be working on a new feature and you wouldnt want new files arriving all the time.
 If you do it manualy you can be sure that you want what is on the remote before you decide to pull it.
 
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks are like clones except that a fork is a clone from a GitHub repository to your own GitHub profile - instead of a clone to your local machine.
+you use a branch to explore new ides, features, or bug fix's.
+You use a fork when you want to be able to change a clone of arepository that you are not a collaborator on.
+You use clones to download a repository to your local machine.
 
