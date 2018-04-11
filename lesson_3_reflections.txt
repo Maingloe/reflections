@@ -13,3 +13,7 @@ you use a branch to explore new ides, features, or bug fix's.
 You use a fork when you want to be able to change a clone of arepository that you are not a collaborator on.
 You use clones to download a repository to your local machine.
 
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A: It allows you to merge conflicting copies from your remote to your local repository
+
