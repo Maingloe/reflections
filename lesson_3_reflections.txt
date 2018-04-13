@@ -4,16 +4,22 @@ A:When you want to collaborate with others or if you wanted to create a copy of 
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-A: Because you could be working on a new feature and you wouldnt want new files arriving all the time.
-If you do it manualy you can be sure that you want what is on the remote before you decide to pull it.
+A: Because you could be working on a new feature and you wouldn't want new files arriving all the time.
+If you do it manually you can be sure that you want what is on the remote before you decide to pull it.
 
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 forks are like clones except that a fork is a clone from a GitHub repository to your own GitHub profile - instead of a clone to your local machine.
-you use a branch to explore new ides, features, or bug fix's.
-You use a fork when you want to be able to change a clone of arepository that you are not a collaborator on.
+you use a branch to explore new ides, features, or bug fixes.
+You use a fork when you want to be able to change a clone of a repository that you are not a collaborator on.
 You use clones to download a repository to your local machine.
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A: It allows you to merge conflicting copies from your remote to your local repository
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A: I have never collaborated before but if i had to do it without git or git hub I think it would have to be done  in person or through a file sharing application.
+Mostly everything would be harder with the exception of communication.
+In person communication can often be better than any other means.
 
