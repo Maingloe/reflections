@@ -23,3 +23,10 @@ A: I have never collaborated before but if i had to do it without git or git hub
 Mostly everything would be harder with the exception of communication.
 In person communication can often be better than any other means.
 
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A: you make changes in a separate branch when collaborating with others.
+using separate branches and pull request ensures that each change is reviewed before bing merged into the master branch.
+Pull requests are beneficial in a multi contributer environment.
+Making changes directly to master is much quicker and less complicated.
+That being said there is a time and lace for everything. and collaborative software development benifits greatly from branching and pull requests.
